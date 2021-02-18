@@ -6,7 +6,7 @@
 
 "Nurgle's Breath"
 
-At the end of the movement phase, roll a D6 for each enemy model within 1" of a Death Guard model you control. On a roll of 6+, the enemey model takes a mortal wound.
+At the end of the movement phase, roll a D6 for each enemy model within 1" of a Death Guard model you control. On a roll of 6+, the enemy model takes a mortal wound.
 
 ### Carrion Hounds
 
@@ -22,8 +22,8 @@ Enemy models who target Death Guard models under your control must subtract 1 fr
 
 ## Potential Subfactions
 - Corpsemakers: Rule focusing on negative modifiers when in cover.
-- Lords of Silence: Rule focusing on 'raider' lore. Possibly an addtional 'decisive move'.
+- Lords of Silence: Rule focusing on 'raider' lore. Possibly an additional 'decisive move'.
 - Mouldering Claw: Rule focusing on melee combat. Possibly an additional mortal wound on a roll of 6+.
-- Pox Mortis: Rule focusin on blight grenade lore.
+- Pox Mortis: Rule focus in on blight grenade lore.
 - Tainted Sons: Rule focusing on 'fixation' lore. Possibly hit and wound modifiers when targeting the same model.
-- Weeping Legion: Rule focusing on 'resiliance' lore. Possibly an armour save modifier.
+- Weeping Legion: Rule focusing on 'resilience' lore. Possibly an armour save modifier.
